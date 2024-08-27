@@ -26,8 +26,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Post Installation Setup
 - System Settings and Preferences
 - Departments
+- Teams
 - Agent Panel
-- Admin Panel
 
 <h2>Configuration Steps</h2>
 
@@ -39,14 +39,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MhhYn3X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pVCyVMd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
