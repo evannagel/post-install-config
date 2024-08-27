@@ -28,6 +28,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Departments
 - Teams
 - Agent Panel
+- Creation of SLAs
 
 <h2>Configuration Steps</h2>
 
@@ -49,7 +50,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/pVCyVMd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>Update And Configure Teams For Teams As An Administrator
 <p>
-</p>
 <br />
 <img src="https://i.imgur.com/bjMO45T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-Creating Agents As An Administrator
+
+
+<img src="https://i.imgur.com/4uvZGVZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Creating SLAs As An Administrator
