@@ -33,21 +33,23 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
 <img src="https://i.imgur.com/CxDOzqL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+</p>Configuration For System Settings and Preferences FOR OSTicket
 <p>
 </p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/MhhYn3X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+</p>Configure and Update Departments As An Administrator
 <p>
 </p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/pVCyVMd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+</p>Update And Configure Teams For Teams As An Administrator
 <p>
 </p>
 <br />
+<img src="https://i.imgur.com/bjMO45T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating Agents As An Administrator
